@@ -1,0 +1,12 @@
+{
+    "name": "comp177/scrapingphp",
+    "authors": [
+        {
+            "name": "Fernando Ramos",
+            "email": "fernando.ramos@sharebusiness.pe"
+        }
+    ],
+    "require": {
+        "spekulatius/phpscraper": "^0.4.7"
+    }
+}
